@@ -4,6 +4,10 @@
 
 ###
 
+<h1 align="center">Hi 👋,  I'm Sankalp</h1>
+
+###
+
 <div align="center">
   <a href="www.linkedin.com/in/sankalpsharma18" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -16,7 +20,9 @@
 
 ###
 
-<h1 align="center">Hi 👋,  I'm Sankalp</h1>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sankalp1806&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
 
@@ -35,6 +41,7 @@
 </picture>
 
 ###
+
 <!--
 **sankalp1806/sankalp1806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
